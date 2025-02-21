@@ -5,7 +5,7 @@ The **English Dictionary Web App** is a simple and interactive dictionary that a
 
 🔹 **Tech Stack:** HTML, CSS, JavaScript  
 🔹 **Features:** Word search, meaning display, audio pronunciation  
-🔹 **Live Demo:** [Click Here](https://rajapriyanka.github.io/English-Dictionary-WebApp/) 
+🔹 **Live Demo:** [Click Here][(https://english-dictionary-cyan.vercel.app/)]
 
 ---
 
