@@ -24,7 +24,7 @@ The **English Dictionary Web App** is a simple and interactive dictionary that a
 
 ## 📸 Screenshots  
 ### 🔹 Main Interface  
-![English Dictionary](images/dictionary.png)  
+![Screenshot (393)](https://github.com/user-attachments/assets/1a4c1cd7-6524-48af-a0b1-4d86a5666905)
 
 ---
 
